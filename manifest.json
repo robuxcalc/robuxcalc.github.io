@@ -1,0 +1,22 @@
+{
+    "name": "Robux to USD Converter",
+    "short_name": "RobuxCalc",
+    "description": "Free Robux to USD converter with DevEx and purchase rates",
+    "start_url": "/robux-to-usd/",
+    "display": "standalone",
+    "background_color": "#0a0e17",
+    "theme_color": "#00ff88",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
+
