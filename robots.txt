@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://robuxcalc.github.io/robux-to-usd/sitemap.xml
+Sitemap: https://robuxcalc.github.io/sitemap.xml
 
 # Block common bot paths
 Disallow: /cgi-bin/
